@@ -1,5 +1,5 @@
 <?php
-// web/list_recipes.php
+
 header('Content-Type: application/json');
 require 'db.php';
 

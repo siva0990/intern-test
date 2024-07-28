@@ -1,5 +1,5 @@
 <?php
-// web/rate_recipe.php
+
 header('Content-Type: application/json');
 require 'db.php';
 

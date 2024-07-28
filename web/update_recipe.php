@@ -1,5 +1,5 @@
 <?php
-// web/update_recipe.php
+
 header('Content-Type: application/json');
 require 'db.php';
 
